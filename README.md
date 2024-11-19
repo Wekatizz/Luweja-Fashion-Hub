@@ -4,7 +4,7 @@ Luweja Fashion Hub is a modern e-commerce platform for trendy clothing. It featu
 
 ## Features
 
-- **Dynamic Shopping Cart**: Add, remove, and adjust product quantities in your cart.
+- **Dynamic Shopping Cart**: Add, remove, and adjust product quantities in the cart.
 - **Search Products**: Search for items easily using the built-in search bar.
 - **Responsive Design**: Works on both desktop and mobile devices.
 - **Payment Options**: Choose from M-Pesa, Credit/Debit Card, or PayPal.
